@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RealTimeMessagingSocetIO</string>
+    <string name="connect">Connect</string>
+    <string name="join_room">Join room</string>
+    <string name="leave_room">Leave room</string>
+    <string name="add_item"> Test Msg</string>
+</resources>

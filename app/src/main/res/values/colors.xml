@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#22113e</color>
+    <color name="colorPrimaryDark">#07002a</color>
+    <color name="colorAccent">#ea098b</color>
+
+    <!--    Chat item color scheme-->
+    <color name="color_username">#d0b54e</color>
+    <color name="color_message_text">@android:color/white</color>
+    <color name="chat_room_bg">#161328</color>
+
+
+</resources>
